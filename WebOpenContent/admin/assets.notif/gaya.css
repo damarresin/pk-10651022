@@ -1,0 +1,9 @@
+#pesan{background-color:;padding:2;position:relative;left:110;cursor:pointer}
+#notifikasi{background-color:red;font-size:18pt;font-style:bold;position:relative;top:-4;padding:2;border-radius:2px;}
+#info{	width:250px;padding:2;position:absolute;left:110;
+		background-color: rgb(247, 247, 247);z-index:1000;
+		display:none;border:2px solid rgba(0, 0, 0, 0.2);
+		border-radius:5px;
+		box-shadow: 3px 3px 5px silver;}
+.info2{font-family:arial;font-size:10pt}
+#loading{height:50;display:none}

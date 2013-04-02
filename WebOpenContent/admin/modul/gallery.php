@@ -1,0 +1,1 @@
+<title>Gallery</title>      <div class="main_container" id="">	        </div>
